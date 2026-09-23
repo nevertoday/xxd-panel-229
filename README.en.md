@@ -60,7 +60,7 @@ The result should feel quiet, intimate, poetic, restrained, warm and nostalgic: 
 Install from GitHub:
 
 ```bash
-npx skills add https://github.com/nevertoday/xxd-panel-229 --skill xxd-panel-229
+npx skills add https://github.com/xiaoxiaodong-ai/xxd-panel-229 --skill xxd-panel-229
 ```
 
 Restart the agent session after installation, then invoke `$xxd-panel-229`. Add `--global --agent codex --yes` when a user-level Codex installation is wanted.
