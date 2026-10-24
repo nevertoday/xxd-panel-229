@@ -1,0 +1,119 @@
+{
+  "skill_description": "XXD Panel 229｜Folk-Modern Quiet Miniature: distils only the most recognisable outline and relationship in a photo into a small, quiet, nostalgic folk-modern illustration — rounded, simplified forms with a touch of naive charm, flat perspective and decorative balance, where what is left undrawn also tells the story — painted in opaque powdery gouache with crayon grain, dry brush, slight print misregistration and paper texture, in a soft limited pastel palette of two to four colours from the photo (powder blue, warm ivory, plant green, a little coral red), set in abundant white space with a few small, light words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-229 or asks for folk-modern, nostalgic gouache miniature or quiet pastel illustration with lots of white space from a photo.",
+  "short_description": "新民艺留白：把照片的灵魂收成一小块圆润、粉彩、安静怀旧的民艺插画",
+  "zh-CN": {
+    "name": "新民艺留白",
+    "tagline": "把照片的灵魂收成一小块圆润、粉彩、安静怀旧的新民艺插画。",
+    "look": "只留下照片里最能认出的外轮廓、比例和关系，画成一小块安静的新民艺插画：造型圆润简化，带一点稚拙，透视扁平，细节是象征性的，没画出来的部分也在讲故事。用不透明的粉质水粉、蜡笔颗粒和干刷来画，保留纸纹、略不均匀的着色、微小的套印偏差和不太整齐的边。颜色是从照片里取的两到四种低饱和粉彩，多半是粉蓝、暖象牙白、植物绿，再点一点珊瑚红。主体很小，四周是极大量留白，边角放几处小而轻的字。",
+    "traits": [
+      "新民艺",
+      "圆润简化",
+      "粉质水粉",
+      "蜡笔颗粒",
+      "极大量留白",
+      "低饱和粉彩"
+    ],
+    "good": [
+      "带生活气息的安静场景：窗边的花瓶、院子里晾的衣服、一条乡间小路",
+      "简单的人与动物：坐着看书的人、趴着的猫、一只鸭子",
+      "想做诗集插画、生活方式品牌视觉或怀旧明信片的照片"
+    ],
+    "poor": [
+      "颜色强烈、需要高饱和表现的照片：霓虹、荧光、热闹的节庆",
+      "需要写实细节或精确比例的照片：产品图、证件照、建筑图",
+      "想要光滑数字插画、满版画面或醒目商业标题的需求"
+    ]
+  },
+  "en": {
+    "name": "Folk-Modern Quiet Miniature",
+    "tagline": "Distils a photo into a small, rounded, pastel folk-modern illustration, quiet and nostalgic.",
+    "look": "Only the most recognisable outline, proportions and relationships in your photo are kept and painted as a small, quiet folk-modern illustration: rounded, simplified forms with a touch of naivety, flat perspective and symbolic details, where what is left out also tells the story. It is painted in opaque, powdery gouache with crayon grain and dry brush, keeping paper texture, slightly uneven colour, small misregistration and imperfect edges. Colours are two to four soft, low-saturation pastels from the photo, usually powder blue, warm ivory and plant green, with a small touch of coral red. The subject is tiny, surrounded by a great deal of white space, with a few small, light words at the edges.",
+    "traits": [
+      "Folk-modern",
+      "Rounded simplification",
+      "Powdery gouache",
+      "Crayon grain",
+      "Abundant white space",
+      "Soft pastels"
+    ],
+    "good": [
+      "Quiet scenes with a lived-in feel: a vase by the window, laundry drying in a yard, a country lane",
+      "Simple people and animals: someone reading, a cat lying down, a duck",
+      "Photos you want as a poetry-book illustration, a lifestyle brand visual or a nostalgic postcard"
+    ],
+    "poor": [
+      "Photos that need strong, saturated colour: neon, fluorescent tones, a lively festival",
+      "Photos that need realistic detail or exact proportions: product shots, ID photos, architectural drawings",
+      "Requests for smooth digital illustration, a full-bleed busy image or a bold commercial headline"
+    ]
+  },
+  "ja": {
+    "name": "新民芸の静かな余白",
+    "tagline": "写真の魂を、丸みのあるパステルの、静かで懐かしい新民芸風の小さな挿画にします。",
+    "look": "写真でいちばん見分けのつく輪郭、比率、関係だけを残し、小さく静かな新民芸風の挿画に描きます。形は丸く簡略化され、少し素朴で、遠近は平たく、細部は象徴的で、描かなかった部分も物語に加わります。不透明で粉っぽいガッシュ、クレヨンの粒子、ドライブラシで描き、紙の目、少しむらのある塗り、わずかな版ずれ、整いきらない縁を残します。色は写真から取った低彩度のパステル二〜四色で、たいていは粉っぽい青、暖かな象牙色、植物の緑に、ほんの少しのコーラルレッド。主役はとても小さく、まわりは非常に広い余白で、隅に小さく軽い文字が少し入ります。",
+    "traits": [
+      "新民芸",
+      "丸い簡略化",
+      "粉っぽいガッシュ",
+      "クレヨンの粒子",
+      "たっぷりの余白",
+      "低彩度のパステル"
+    ],
+    "good": [
+      "暮らしの気配がある静かな場面：窓辺の花瓶、庭の洗濯物、田舎の小道",
+      "シンプルな人や動物：本を読む人、寝そべる猫、アヒル",
+      "詩集の挿絵、ライフスタイルブランドのビジュアル、懐かしいポストカードにしたい写真"
+    ],
+    "poor": [
+      "強く鮮やかな色が必要な写真：ネオン、蛍光色、にぎやかな祭り",
+      "写実的な細部や正確な比率が必要な写真：商品写真、証明写真、建築図面",
+      "なめらかなデジタルイラスト、画面いっぱいの絵、目立つ商業見出しを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "신민예 여백",
+    "tagline": "사진의 영혼을 둥글고 파스텔빛인, 조용하고 향수 어린 신민예 작은 삽화로 담습니다.",
+    "look": "사진에서 가장 알아보기 쉬운 윤곽, 비례, 관계만 남겨 작고 조용한 신민예풍 삽화로 그립니다. 형태는 둥글고 단순하며 조금 서툴고, 원근은 납작하고, 세부는 상징적이며, 그리지 않은 부분도 이야기에 참여합니다. 불투명하고 분가루 같은 과슈, 크레용 입자, 마른 붓질로 그려 종이결, 약간 고르지 않은 채색, 미세한 판 어긋남, 덜 가지런한 가장자리를 남깁니다. 색은 사진에서 가져온 저채도 파스텔 두세 가지에서 네 가지로, 대개 분홍빛 도는 파랑, 따뜻한 상아색, 식물 초록에 산호 빨강을 조금 더합니다. 주인공은 아주 작고 주변은 매우 넓은 여백이며, 모서리에 작고 가벼운 글자가 조금 들어갑니다.",
+    "traits": [
+      "신민예",
+      "둥근 단순화",
+      "분가루 같은 과슈",
+      "크레용 입자",
+      "아주 넓은 여백",
+      "저채도 파스텔"
+    ],
+    "good": [
+      "생활의 기운이 있는 조용한 장면: 창가의 꽃병, 마당에 넌 빨래, 시골길",
+      "단순한 사람과 동물: 책 읽는 사람, 엎드린 고양이, 오리 한 마리",
+      "시집 삽화, 라이프스타일 브랜드 비주얼, 향수 어린 엽서로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "강하고 진한 색이 필요한 사진: 네온, 형광색, 떠들썩한 축제",
+      "사실적인 세부나 정확한 비례가 필요한 사진: 제품 사진, 증명사진, 건축 도면",
+      "매끈한 디지털 일러스트, 화면 가득한 그림, 눈에 띄는 상업 제목을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "منمنمة شعبية حديثة هادئة",
+    "tagline": "يكثّف روح الصورة في رسم شعبي حديث صغير مستدير الأشكال بألوان الباستيل، هادئ ومفعم بالحنين.",
+    "look": "لا يبقى من صورتك إلا أوضح حدودها ونِسبها وعلاقاتها، وتُرسم منمنمة شعبية حديثة صغيرة هادئة: أشكال مستديرة مبسّطة فيها شيء من العفوية، ومنظور مسطّح، وتفاصيل رمزية، وما لم يُرسم يشارك في الحكاية أيضاً. تُرسم بالغواش المعتم البودري مع حبيبات قلم الشمع وضربات الفرشاة الجافة، ويبقى ملمس الورق وتفاوت خفيف في اللون وانزياح طباعي صغير وحواف غير منتظمة تماماً. الألوان من اثنين إلى أربعة من ألوان الباستيل الهادئة المأخوذة من الصورة، غالباً الأزرق البودري والعاجي الدافئ والأخضر النباتي مع لمسة صغيرة من الأحمر المرجاني. العنصر صغير جداً يحيط به فراغ أبيض واسع للغاية، وفي الأطراف كلمات قليلة صغيرة خفيفة.",
+    "traits": [
+      "شعبي حديث",
+      "تبسيط مستدير",
+      "غواش بودري",
+      "حبيبات قلم الشمع",
+      "فراغ واسع جداً",
+      "باستيل هادئ"
+    ],
+    "good": [
+      "مشاهد هادئة فيها دفء الحياة اليومية: مزهرية عند النافذة، غسيل منشور في فناء، درب ريفي",
+      "أشخاص وحيوانات بسيطة: شخص يقرأ، قطة مستلقية، بطة",
+      "صور تريدها رسماً لديوان شعر أو هوية لعلامة أسلوب حياة أو بطاقة بريدية بروح الحنين"
+    ],
+    "poor": [
+      "صور تحتاج إلى ألوان قوية مشبعة: نيون، ألوان فسفورية، احتفال صاخب",
+      "صور تحتاج إلى تفاصيل واقعية أو نِسب دقيقة: صور المنتجات، صور الهوية، الرسوم المعمارية",
+      "طلب رسم رقمي ناعم أو صورة مزدحمة تملأ الإطار أو عنوان تجاري لافت"
+    ]
+  }
+}

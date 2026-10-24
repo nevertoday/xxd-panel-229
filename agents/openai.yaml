@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 229"
-  short_description: "新民艺留白：上半保留原照，下半把灵魂收成一小块安静的粉彩民艺插画"
-  default_prompt: "Use $xxd-panel-229 to transform my photograph following the complete canonical source brief."
+  short_description: "新民艺留白：把照片的灵魂收成一小块圆润、粉彩、安静怀旧的民艺插画"
+  default_prompt: "Use $xxd-panel-229 to turn my photo into Folk-Modern Quiet Miniature artwork."

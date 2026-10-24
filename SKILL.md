@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-229
-description: "Create XXD Panel 229 raster artwork: a faithful photograph paired with a quiet folk-modern illustration that retells the source as rounded simplified forms, gouache and crayon grain, small-scale placement and abundant pastel whitespace. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-229 or asks for this quiet nostalgic folk-modern illustration style."
+description: "XXD Panel 229｜Folk-Modern Quiet Miniature: distils only the most recognisable outline and relationship in a photo into a small, quiet, nostalgic folk-modern illustration — rounded, simplified forms with a touch of naive charm, flat perspective and decorative balance, where what is left undrawn also tells the story — painted in opaque powdery gouache with crayon grain, dry brush, slight print misregistration and paper texture, in a soft limited pastel palette of two to four colours from the photo (powder blue, warm ivory, plant green, a little coral red), set in abundant white space with a few small, light words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-229 or asks for folk-modern, nostalgic gouache miniature or quiet pastel illustration with lots of white space from a photo."
 ---
 
 # XXD Panel 229
